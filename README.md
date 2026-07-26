@@ -23,7 +23,7 @@ Purpose
 This project was created to practice HTML fundamentals, page structuring, and navigation between multiple pages.
 
 Live Demo
-(Add your Vercel link here)
+https://pakistan-explorer-travel-agency.vercel.app/
 
 Author
 Created as part of SMIT (Saylani Mass IT Training) learning journey.
